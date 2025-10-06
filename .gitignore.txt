@@ -1,2 +1,0 @@
-# Ignora arquivos de credenciais
-Code/credentials.txt
