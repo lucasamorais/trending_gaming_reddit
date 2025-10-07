@@ -1,0 +1,11 @@
+# Ignora arquivos de credenciais
+code/credentials.txt
+
+# Arquivos e pastas do Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Arquivos do Streamlit
+.streamlit/
